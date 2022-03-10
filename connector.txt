@@ -1,0 +1,1 @@
+https://toxictools.000webhostapp.com/mail/mailget.php?to=$TO$&from=$FROM$&name=$NAME$&subject=$SUBJECT$&message=$MESSAGE$
