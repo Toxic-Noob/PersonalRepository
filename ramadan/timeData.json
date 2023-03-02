@@ -1,20 +1,11 @@
 {
   "status" : "none",
-  "startDate":{
-    "day": 3, "month": 3, "year": 2023
-  },
-  "endDate": {
-    "day": 3, "month": 3, "year": 2023
-  },
-  "timeData": {
-    "3:3:2023": {
-      "sehri": {
-        "hour": 3, "minute": 45 
-      }, "iftar": {
-        "hour": 19, "minute": 12
-      }, "quote": {
-        "quote": "ToxicNoob is Actually a Lame Name", "source": "ToxicNoob Inc."
-      }
+  "msg" : {
+    "date": {
+      "day": 1,"month": 3, "year": 2024
+    },
+    "msg": {
+      "text": "Testing", "author": "ToxicNoob Inc."
     }
   }
 }
