@@ -1,13 +1,14 @@
 {
   "status" : "running",
   "startDate":{
-    "day": 3, "month": 3, "year": 2023
+    "day": 1, "month": 3, "year": 2023
   },
   "endDate": {
-    "day": 3, "month": 3, "year": 2023
+    "day": 1, "month": 3, "year": 2023
   },
   "timeData": {
     "1:1:2023": {
+      "serial": 1,
       "sehri": {
         "hour": 3, "minute": 45 
       }, "iftar": {
