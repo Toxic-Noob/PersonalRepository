@@ -1,220 +1,220 @@
 {
   "status": "running",
   "startDate": {
-    "day": 24, "month": 3, "year": 2023
+    "day": 12, "month": 3, "year": 2024
   },
   "endDate": {
-    "day": 22, "month": 4, "year": 2023
+    "day": 10, "month": 4, "year": 2024
   },
   "timeData": {
-    "24:3:2023": {
+    "12:3:2024": {
       "serial": 1, "sehri": {
-        "hour": 4, "minute": 38
+        "hour": 4, "minute": 51
       }, "iftar": {
-        "hour": 18, "minute": 14
+        "hour": 18, "minute": 10
       }, "quote": {
         "quote": "When the month of Ramadan starts, the gates of the heaven are opened and the gates of Hell are closed and the devils are chained", "source": "Prophet Muhammed"
-      }}, "25:3:2023": {
+      }}, "13:3:2024": {
       "serial": 2, "sehri": {
-        "hour": 4, "minute": 37
+        "hour": 4, "minute": 50
+      }, "iftar": {
+        "hour": 18, "minute": 10
+      }, "quote": {
+        "quote": "Fasting is prescribed for you as it was prescribed for those before you, that you may achieve taqwaa", "source": "Qur'an (2:183)"
+      }}, "14:3:2024": {
+      "serial": 3, "sehri": {
+        "hour": 4, "minute": 49
+      }, "iftar": {
+        "hour": 18, "minute": 11
+      }, "quote": {
+        "quote": "Call upon me, I will respond to you", "source": "Qur'an (40:60)"
+      }}, "15:3:2024": {
+      "serial": 4, "sehri": {
+        "hour": 4, "minute": 48
+      }, "iftar": {
+        "hour": 18, "minute": 11
+      }, "quote": {
+        "quote": "Speak a good word or remain silent", "source": "Prophet Muhammed"
+      }}, "16:3:2024": {
+      "serial": 5, "sehri": {
+        "hour": 4, "minute": 47
+      }, "iftar": {
+        "hour": 18, "minute": 12
+      }, "quote": {
+        "quote": "Indeed, good deeds wipe out the evil deeds", "source": "Qur'an (11:114)"
+      }}, "17:3:2024": {
+      "serial": 6, "sehri": {
+        "hour": 4, "minute": 46
+      }, "iftar": {
+        "hour": 18, "minute": 12
+      }, "quote": {
+        "quote": "When the world goes to sleep, God is the One who is awake with you. God sees the tears you hide with smiles, and He embraces the pain you think no one would understand. Not even an atom's weight in the heavens or the earth remains hidden from Him", "source": "Qur'an(34:3)"
+      }}, "18:3:2024": {
+      "serial": 7, "sehri": {
+        "hour": 4, "minute": 45
+      }, "iftar": {
+        "hour": 18, "minute": 12
+      }, "quote": {
+        "quote": "It is not the eyes that are blind, but the hearts", "source": "Qur'an (22:46)"
+      }}, "19:3:2024": {
+      "serial": 8, "sehri": {
+        "hour": 4, "minute": 44
+      }, "iftar": {
+        "hour": 18, "minute": 13
+      }, "quote": {
+        "quote": "Do not despair of the mercy of Allah", "source": "Qur'an (39:53)"
+      }}, "20:3:2024": {
+      "serial": 9, "sehri": {
+        "hour": 4, "minute": 43
+      }, "iftar": {
+        "hour": 18, "minute": 13
+      }, "quote": {
+        "quote": " Indeed, God will not change the conditions of people until they change what it is in themselves", "source": "Qur'an (13:11)"
+      }}, "21:3:2024": {
+      "serial": 10, "sehri": {
+        "hour": 4, "minute": 42
+      }, "iftar": {
+        "hour": 18, "minute": 13
+      }, "quote": {
+        "quote": " He is the most merciful of those who show mercy", "source": "Qur'an (12:64)"
+      }}, "22:3:2024": {
+      "serial": 11, "sehri": {
+        "hour": 4, "minute": 41
       }, "iftar": {
         "hour": 18, "minute": 14
       }, "quote": {
-        "quote": "Fasting is prescribed for you as it was prescribed for those before you, that you may achieve taqwaa", "source": "Qur'an (2:183)"
-      }}, "26:3:2023": {
-      "serial": 3, "sehri": {
+        "quote": "Do not be afraid. I am with you, all-hearing and all-seeing", "source": "Qur'an (20:46)"
+      }}, "23:3:2024": {
+      "serial": 12, "sehri": {
+        "hour": 4, "minute": 40
+      }, "iftar": {
+        "hour": 18, "minute": 14
+      }, "quote": {
+        "quote": "Allah likes those who are thankful", "source": "Qur'an (19:9)"
+      }}, "24:3:2024": {
+      "serial": 13, "sehri": {
+        "hour": 4, "minute": 24
+      }, "iftar": {
+        "hour": 18, "minute": 14
+      }, "quote": {
+        "quote": "Allah is with those who restrain themselves", "source": "Quran (16: 128)"
+      }}, "25:3:2024": {
+      "serial": 14, "sehri": {
+        "hour": 4, "minute": 38
+      }, "iftar": {
+        "hour": 18, "minute": 15
+      }, "quote": {
+        "quote": "The strong man is not a good wrestler; the strong man is only the one who controls himself when he is angry", "source": "Prophet Muhammad"
+      }}, "26:3:2024": {
+      "serial": 15, "sehri": {
         "hour": 4, "minute": 36
       }, "iftar": {
         "hour": 18, "minute": 15
       }, "quote": {
-        "quote": "Call upon me, I will respond to you", "source": "Qur’an (40:60)"
-      }}, "27:3:2023": {
-      "serial": 4, "sehri": {
+        "quote": "To exercise patience and forgive is proof of genuine courage", "source": "Qur'an (42:43)"
+      }}, "27:3:2024": {
+      "serial": 16, "sehri": {
         "hour": 4, "minute": 35
       }, "iftar": {
-        "hour": 18, "minute": 15
+        "hour": 18, "minute": 16
       }, "quote": {
-        "quote": "Speak a good word or remain silent", "source": "Prophet Muhammed"
-      }}, "28:3:2023": {
-      "serial": 5, "sehri": {
+        "quote": "Indeed, what is to come will be better for you than what has gone by", "source": "Qur'an (93:4)"
+      }}, "28:3:2024": {
+      "serial": 17, "sehri": {
         "hour": 4, "minute": 34
       }, "iftar": {
         "hour": 18, "minute": 16
       }, "quote": {
-        "quote": "Indeed, good deeds wipe out the evil deeds", "source": "Qur’an (11:114)"
-      }}, "29:3:2023": {
-      "serial": 6, "sehri": {
-        "hour": 4, "minute": 32
+        "quote": "If you are grateful, I will give you more", "source": "Qur'an (14:7)"
+      }}, "29:3:2024": {
+      "serial": 18, "sehri": {
+        "hour": 4, "minute": 33
       }, "iftar": {
-        "hour": 18, "minute": 16
+        "hour": 18, "minute": 17
       }, "quote": {
-        "quote": "When the world goes to sleep, God is the One who is awake with you. God sees the tears you hide with smiles, and He embraces the pain you think no one would understand. Not even an atom’s weight in the heavens or the earth remains hidden from Him", "source": "Qur'an(34:3)"
-      }}, "30:3:2023": {
-      "serial": 7, "sehri": {
+        "quote": "For Allah loves those who put their trust in Him", "source": "Qur'an (3:159)"
+      }}, "30:3:2024": {
+      "serial": 19, "sehri": {
         "hour": 4, "minute": 31
       }, "iftar": {
         "hour": 18, "minute": 17
       }, "quote": {
-        "quote": "It is not the eyes that are blind, but the hearts", "source": "Qur’an (22:46)"
-      }}, "31:3:2023": {
-      "serial": 8, "sehri": {
+        "quote": "You have power over all things", "source": "Qur'an (3:26)"
+      }}, "31:3:2024": {
+      "serial": 20, "sehri": {
         "hour": 4, "minute": 30
       }, "iftar": {
-        "hour": 18, "minute": 17
+        "hour": 18, "minute": 18
       }, "quote": {
-        "quote": "Do not despair of the mercy of Allah", "source": "Qur’an (39:53)"
-      }}, "1:4:2023": {
-      "serial": 9, "sehri": {
+        "quote": "My Lord grants me courage", "source": "Quran (20:25)"
+      }}, "1:4:2024": {
+      "serial": 21, "sehri": {
         "hour": 4, "minute": 29
       }, "iftar": {
         "hour": 18, "minute": 18
       }, "quote": {
-        "quote": " Indeed, God will not change the conditions of people until they change what it is in themselves", "source": "Qur’an (13:11)"
-      }}, "2:4:2023": {
-      "serial": 10, "sehri": {
+        "quote": "On no soul do we place a burden greater than it can bear", "source": "Qur'an (23:62)"
+      }}, "2:4:2024": {
+      "serial": 22, "sehri": {
         "hour": 4, "minute": 28
       }, "iftar": {
-        "hour": 18, "minute": 18
+        "hour": 18, "minute": 19
       }, "quote": {
-        "quote": " He is the most merciful of those who show mercy", "source": "Qur’an (12:64)"
-      }}, "3:4:2023": {
-      "serial": 11, "sehri": {
+        "quote": "Whoever Allah wishes to show goodness, He gives him an understanding of the religion", "source": "Sahih Bukhari: 71"
+      }}, "3:4:2024": {
+      "serial": 23, "sehri": {
         "hour": 4, "minute": 27
       }, "iftar": {
         "hour": 18, "minute": 19
       }, "quote": {
-        "quote": "Do not be afraid. I am with you, all-hearing and all-seeing", "source": "Qur’an (20:46)"
-      }}, "4:4:2023": {
-      "serial": 12, "sehri": {
+        "quote": "They plot and plan and Allah plans too. Little do they know; Allah is the best of planners", "source": "Qur'an (8:30)"
+      }}, "4:4:2024": {
+      "serial": 24, "sehri": {
         "hour": 4, "minute": 26
       }, "iftar": {
         "hour": 18, "minute": 19
       }, "quote": {
-        "quote": "Allah likes those who are thankful", "source": "Qur’an (19:9)"
-      }}, "5:4:2023": {
-      "serial": 13, "sehri": {
+        "quote": "Allah is the all-knowing each and everything", "source": "Qur'an (2:282)"
+      }}, "5:4:2024": {
+      "serial": 25, "sehri": {
         "hour": 4, "minute": 24
       }, "iftar": {
         "hour": 18, "minute": 20
       }, "quote": {
-        "quote": "Allah is with those who restrain themselves", "source": "Quran (16: 128)"
-      }}, "6:4:2023": {
-      "serial": 14, "sehri": {
+        "quote": "We shall show them Our signs on the horizons and in their souls", "source": "Qur'an (41:53)"
+      }}, "6:4:2024": {
+      "serial": 26, "sehri": {
         "hour": 4, "minute": 24
       }, "iftar": {
         "hour": 18, "minute": 20
       }, "quote": {
-        "quote": "The strong man is not a good wrestler; the strong man is only the one who controls himself when he is angry", "source": "Prophet Muhammad"
-      }}, "7:4:2023": {
-      "serial": 15, "sehri": {
+        "quote": "So flee to God", "source": "Qur'an (51:50)"
+      }}, "7:4:2024": {
+      "serial": 27, "sehri": {
         "hour": 4, "minute": 23
       }, "iftar": {
         "hour": 18, "minute": 21
       }, "quote": {
-        "quote": "To exercise patience and forgive is proof of genuine courage", "source": "Qur’an (42:43)"
-      }}, "8:4:2023": {
-      "serial": 16, "sehri": {
+        "quote": "Seek guidance from Me, and I will guide You", "source": "Hadith Qudsi"
+      }}, "8:4:2024": {
+      "serial": 28, "sehri": {
         "hour": 4, "minute": 22
       }, "iftar": {
         "hour": 18, "minute": 21
       }, "quote": {
-        "quote": "Indeed, what is to come will be better for you than what has gone by", "source": "Qur’an (93:4)"
-      }}, "9:4:2023": {
-      "serial": 17, "sehri": {
+        "quote": "It is He who enables you to travel on Land and Sea", "source": "Qur'an (10:22)"
+      }}, "9:4:2024": {
+      "serial": 29, "sehri": {
         "hour": 4, "minute": 21
       }, "iftar": {
-        "hour": 18, "minute": 22
+        "hour": 18, "minute": 21
       }, "quote": {
-        "quote": "If you are grateful, I will give you more", "source": "Qur’an (14:7)"
-      }}, "10:4:2023": {
-      "serial": 18, "sehri": {
+        "quote": "Even if all the trees on earth were pens, and the ocean inks, with seven more oceans added to it, the words of Allah would not be exhausted: for Allah is infinite in power and wisdom", "source": "Qur'an (31:27)"
+      }}, "10:4:2024": {
+      "serial": 30, "sehri": {
         "hour": 4, "minute": 20
       }, "iftar": {
         "hour": 18, "minute": 22
-      }, "quote": {
-        "quote": "For Allah loves those who put their trust in Him", "source": "Qur’an (3:159)"
-      }}, "11:4:2023": {
-      "serial": 19, "sehri": {
-        "hour": 4, "minute": 19
-      }, "iftar": {
-        "hour": 18, "minute": 22
-      }, "quote": {
-        "quote": "You have power over all things", "source": "Qur’an (3:26)"
-      }}, "12:4:2023": {
-      "serial": 20, "sehri": {
-        "hour": 4, "minute": 18
-      }, "iftar": {
-        "hour": 18, "minute": 23
-      }, "quote": {
-        "quote": "My Lord grants me courage", "source": "Quran (20:25)"
-      }}, "13:4:2023": {
-      "serial": 21, "sehri": {
-        "hour": 4, "minute": 16
-      }, "iftar": {
-        "hour": 18, "minute": 23
-      }, "quote": {
-        "quote": "On no soul do we place a burden greater than it can bear", "source": "Qur’an (23:62)"
-      }}, "14:4:2023": {
-      "serial": 22, "sehri": {
-        "hour": 4, "minute": 15
-      }, "iftar": {
-        "hour": 18, "minute": 23
-      }, "quote": {
-        "quote": "Whoever Allah wishes to show goodness, He gives him an understanding of the religion", "source": "Sahih Bukhari: 71"
-      }}, "15:4:2023": {
-      "serial": 23, "sehri": {
-        "hour": 4, "minute": 14
-      }, "iftar": {
-        "hour": 18, "minute": 24
-      }, "quote": {
-        "quote": "They plot and plan and Allah plans too. Little do they know; Allah is the best of planners", "source": "Qur’an (8:30)"
-      }}, "16:4:2023": {
-      "serial": 24, "sehri": {
-        "hour": 4, "minute": 13
-      }, "iftar": {
-        "hour": 18, "minute": 24
-      }, "quote": {
-        "quote": "Allah is the all-knowing each and everything", "source": "Qur’an (2:282)"
-      }}, "17:4:2023": {
-      "serial": 25, "sehri": {
-        "hour": 4, "minute": 12
-      }, "iftar": {
-        "hour": 18, "minute": 24
-      }, "quote": {
-        "quote": "We shall show them Our signs on the horizons and in their souls", "source": "Qur’an (41:53)"
-      }}, "18:4:2023": {
-      "serial": 26, "sehri": {
-        "hour": 4, "minute": 11
-      }, "iftar": {
-        "hour": 18, "minute": 25
-      }, "quote": {
-        "quote": "So flee to God", "source": "Qur’an (51:50)"
-      }}, "19:4:2023": {
-      "serial": 27, "sehri": {
-        "hour": 4, "minute": 10
-      }, "iftar": {
-        "hour": 18, "minute": 25
-      }, "quote": {
-        "quote": "Seek guidance from Me, and I will guide You", "source": "Hadith Qudsi"
-      }}, "20:4:2023": {
-      "serial": 28, "sehri": {
-        "hour": 4, "minute": 9
-      }, "iftar": {
-        "hour": 18, "minute": 26
-      }, "quote": {
-        "quote": "It is He who enables you to travel on Land and Sea", "source": "Qur’an (10:22)"
-      }}, "21:4:2023": {
-      "serial": 29, "sehri": {
-        "hour": 4, "minute": 8
-      }, "iftar": {
-        "hour": 18, "minute": 26
-      }, "quote": {
-        "quote": "Even if all the trees on earth were pens, and the ocean inks, with seven more oceans added to it, the words of Allah would not be exhausted: for Allah is infinite in power and wisdom", "source": "Qur’an (31:27)"
-      }}, "22:4:2023": {
-      "serial": 30, "sehri": {
-        "hour": 4, "minute": 7
-      }, "iftar": {
-        "hour": 18, "minute": 26
       }, "quote": {
         "quote": "The most honored by Allah amongst you are those best in taqwaa", "source": "Qur'an (49:13)"
       }
